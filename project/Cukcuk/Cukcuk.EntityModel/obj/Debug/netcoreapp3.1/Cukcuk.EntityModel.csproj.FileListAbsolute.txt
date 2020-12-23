@@ -1,0 +1,16 @@
+C:\Users\NBAnh\Desktop\project\Cukcuk\Cukcuk.EntityModel\bin\Debug\netcoreapp3.1\Cukcuk.EntityModel.deps.json
+C:\Users\NBAnh\Desktop\project\Cukcuk\Cukcuk.EntityModel\bin\Debug\netcoreapp3.1\Cukcuk.EntityModel.dll
+C:\Users\NBAnh\Desktop\project\Cukcuk\Cukcuk.EntityModel\bin\Debug\netcoreapp3.1\Cukcuk.EntityModel.pdb
+C:\Users\NBAnh\Desktop\project\Cukcuk\Cukcuk.EntityModel\obj\Debug\netcoreapp3.1\Cukcuk.EntityModel.csprojAssemblyReference.cache
+C:\Users\NBAnh\Desktop\project\Cukcuk\Cukcuk.EntityModel\obj\Debug\netcoreapp3.1\Cukcuk.EntityModel.AssemblyInfoInputs.cache
+C:\Users\NBAnh\Desktop\project\Cukcuk\Cukcuk.EntityModel\obj\Debug\netcoreapp3.1\Cukcuk.EntityModel.AssemblyInfo.cs
+C:\Users\NBAnh\Desktop\project\Cukcuk\Cukcuk.EntityModel\obj\Debug\netcoreapp3.1\Cukcuk.EntityModel.csproj.CoreCompileInputs.cache
+C:\Users\NBAnh\Desktop\project\Cukcuk\Cukcuk.EntityModel\obj\Debug\netcoreapp3.1\Cukcuk.EntityModel.dll
+C:\Users\NBAnh\Desktop\project\Cukcuk\Cukcuk.EntityModel\obj\Debug\netcoreapp3.1\Cukcuk.EntityModel.pdb
+C:\Users\NBAnh\Downloads\project\project\Cukcuk\Cukcuk.EntityModel\bin\Debug\netcoreapp3.1\Cukcuk.EntityModel.deps.json
+C:\Users\NBAnh\Downloads\project\project\Cukcuk\Cukcuk.EntityModel\bin\Debug\netcoreapp3.1\Cukcuk.EntityModel.dll
+C:\Users\NBAnh\Downloads\project\project\Cukcuk\Cukcuk.EntityModel\bin\Debug\netcoreapp3.1\Cukcuk.EntityModel.pdb
+C:\Users\NBAnh\Downloads\project\project\Cukcuk\Cukcuk.EntityModel\obj\Debug\netcoreapp3.1\Cukcuk.EntityModel.AssemblyInfoInputs.cache
+C:\Users\NBAnh\Downloads\project\project\Cukcuk\Cukcuk.EntityModel\obj\Debug\netcoreapp3.1\Cukcuk.EntityModel.AssemblyInfo.cs
+C:\Users\NBAnh\Downloads\project\project\Cukcuk\Cukcuk.EntityModel\obj\Debug\netcoreapp3.1\Cukcuk.EntityModel.dll
+C:\Users\NBAnh\Downloads\project\project\Cukcuk\Cukcuk.EntityModel\obj\Debug\netcoreapp3.1\Cukcuk.EntityModel.pdb
