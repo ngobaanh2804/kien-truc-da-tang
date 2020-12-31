@@ -25,3 +25,16 @@ C:\Users\NBAnh\Downloads\project\project\Cukcuk\Cukcuk.BL\obj\Debug\netcoreapp3.
 C:\Users\NBAnh\Downloads\project\project\Cukcuk\Cukcuk.BL\obj\Debug\netcoreapp3.1\Cukcuk.BL.csproj.CopyComplete
 C:\Users\NBAnh\Downloads\project\project\Cukcuk\Cukcuk.BL\obj\Debug\netcoreapp3.1\Cukcuk.BL.dll
 C:\Users\NBAnh\Downloads\project\project\Cukcuk\Cukcuk.BL\obj\Debug\netcoreapp3.1\Cukcuk.BL.pdb
+C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.BL\bin\Debug\netcoreapp3.1\Cukcuk.BL.deps.json
+C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.BL\bin\Debug\netcoreapp3.1\Cukcuk.BL.dll
+C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.BL\bin\Debug\netcoreapp3.1\Cukcuk.BL.pdb
+C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.BL\bin\Debug\netcoreapp3.1\Cukcuk.DL.dll
+C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.BL\bin\Debug\netcoreapp3.1\Cukcuk.EntityModel.dll
+C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.BL\bin\Debug\netcoreapp3.1\Cukcuk.DL.pdb
+C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.BL\bin\Debug\netcoreapp3.1\Cukcuk.EntityModel.pdb
+C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.BL\obj\Debug\netcoreapp3.1\Cukcuk.BL.csprojAssemblyReference.cache
+C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.BL\obj\Debug\netcoreapp3.1\Cukcuk.BL.AssemblyInfoInputs.cache
+C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.BL\obj\Debug\netcoreapp3.1\Cukcuk.BL.AssemblyInfo.cs
+C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.BL\obj\Debug\netcoreapp3.1\Cukcuk.BL.csproj.CopyComplete
+C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.BL\obj\Debug\netcoreapp3.1\Cukcuk.BL.dll
+C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.BL\obj\Debug\netcoreapp3.1\Cukcuk.BL.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NBAnh\\Downloads\\project\\project\\Cukcuk\\Cukcuk.EntityModel\\Cukcuk.EntityModel.csproj": {}
+    "C:\\Users\\NBAnh\\Desktop\\kiến trúc đa tầng\\kien-truc-da-tang\\project\\Cukcuk\\Cukcuk.EntityModel\\Cukcuk.EntityModel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NBAnh\\Downloads\\project\\project\\Cukcuk\\Cukcuk.EntityModel\\Cukcuk.EntityModel.csproj": {
+    "C:\\Users\\NBAnh\\Desktop\\kiến trúc đa tầng\\kien-truc-da-tang\\project\\Cukcuk\\Cukcuk.EntityModel\\Cukcuk.EntityModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NBAnh\\Downloads\\project\\project\\Cukcuk\\Cukcuk.EntityModel\\Cukcuk.EntityModel.csproj",
+        "projectUniqueName": "C:\\Users\\NBAnh\\Desktop\\kiến trúc đa tầng\\kien-truc-da-tang\\project\\Cukcuk\\Cukcuk.EntityModel\\Cukcuk.EntityModel.csproj",
         "projectName": "Cukcuk.EntityModel",
-        "projectPath": "C:\\Users\\NBAnh\\Downloads\\project\\project\\Cukcuk\\Cukcuk.EntityModel\\Cukcuk.EntityModel.csproj",
+        "projectPath": "C:\\Users\\NBAnh\\Desktop\\kiến trúc đa tầng\\kien-truc-da-tang\\project\\Cukcuk\\Cukcuk.EntityModel\\Cukcuk.EntityModel.csproj",
         "packagesPath": "C:\\Users\\NBAnh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NBAnh\\Downloads\\project\\project\\Cukcuk\\Cukcuk.EntityModel\\obj\\",
+        "outputPath": "C:\\Users\\NBAnh\\Desktop\\kiến trúc đa tầng\\kien-truc-da-tang\\project\\Cukcuk\\Cukcuk.EntityModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NBAnh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,9 +38,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
+            "Dapper.Contrib": {
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[2.0.78, )"
             }
           },
           "imports": [
