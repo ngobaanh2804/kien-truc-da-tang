@@ -6,8 +6,11 @@ using System.Text;
 
 namespace Cukcuk.BL.Entity
 {
-    public class EmployeeBL: BaseBL<Employee>
+    public class EmployeeBL : BaseBL<Employee>
     {
-        
+        public EmployeeBL()
+        {
+
+        }
     }
 }

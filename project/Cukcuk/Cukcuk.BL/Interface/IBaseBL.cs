@@ -8,8 +8,9 @@ namespace Cukcuk.BL.Interface
     public interface IBaseBL<T>
     {
         IEnumerable<T> GetAll();
-
         T GetById(Guid id);
-        object InsertData(Employee employee);
+        ServiceResult InnsertData(T employee);
+        ServiceResult UpdateData(T employee);
+        ServiceResult DeleteData(Guid id);
     }
 }

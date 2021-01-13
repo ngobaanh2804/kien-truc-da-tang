@@ -178,8 +178,6 @@ C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\
 C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.UI\bin\Debug\netcoreapp3.1\Cukcuk.DL.pdb
 C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.UI\obj\Debug\netcoreapp3.1\staticwebassets\Cukcuk.UI.StaticWebAssets.Manifest.cache
 C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.UI\obj\Debug\netcoreapp3.1\staticwebassets\Cukcuk.UI.StaticWebAssets.xml
-C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.UI\obj\Debug\netcoreapp3.1\Cukcuk.UI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.UI\obj\Debug\netcoreapp3.1\Cukcuk.UI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.UI\obj\Debug\netcoreapp3.1\Cukcuk.UI.AssemblyInfoInputs.cache
 C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.UI\obj\Debug\netcoreapp3.1\Cukcuk.UI.AssemblyInfo.cs
 C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.UI\obj\Debug\netcoreapp3.1\Cukcuk.UI.RazorTargetAssemblyInfo.cache
@@ -225,3 +223,9 @@ C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\
 C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.UI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.UI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.UI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.UI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.UI\obj\Debug\netcoreapp3.1\Cukcuk.UI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NBAnh\Desktop\kiến trúc đa tầng\kien-truc-da-tang\project\Cukcuk\Cukcuk.UI\obj\Debug\netcoreapp3.1\Cukcuk.UI.MvcApplicationPartsAssemblyInfo.cache

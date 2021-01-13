@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Cukcuk.BL.Entity;
+using Cukcuk.EntityModel.Enums;
 using Cukcuk.EntityModel.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -31,12 +32,21 @@ namespace Cukcuk.API.Controllers
         {
             var employees = employeeBL.GetAll();
 
+            var result = new ServiceResult();
+
             if (employees != null)
             {
-                return Ok(employees);
+                result.Message = "Success";
+                result.ApplicationSatusCode = 200;
+                result.Data = employees;
+            }
+            else
+            {
+                result.Message = "Fail";
+                result.ApplicationSatusCode = 400;
             }
 
-            return BadRequest();
+            return StatusCode(result.ApplicationSatusCode, result);
         }
 
         /// <summary>
@@ -49,7 +59,22 @@ namespace Cukcuk.API.Controllers
         public IActionResult GetEmployeeById(Guid id)
         {
             var employee = employeeBL.GetById(id);
-            return Ok(employee);
+
+            var result = new ServiceResult();
+
+            if (id != null)
+            {
+                result.Message = "Success";
+                result.ApplicationSatusCode = 200;
+                result.Data = employee;
+            }
+            else
+            {
+                result.Message = "Fail";
+                result.ApplicationSatusCode = 400;
+            }
+
+            return StatusCode(result.ApplicationSatusCode, result);
         }
 
         /// <summary>
@@ -61,14 +86,24 @@ namespace Cukcuk.API.Controllers
         [HttpPost]
         public IActionResult Post([FromBody] Employee employee)
         {
-            var result = employeeBL.InsertData(employee);
+            var Employee = employeeBL.InsertData(employee);
 
-            if (result)
+            var result = new ServiceResult();
+
+
+            if (Employee)
             {
-                return StatusCode(201, employee);
+                result.Message = "Success";
+                result.ApplicationSatusCode = 200;
+                result.Data = Employee;
             }
 
-            return BadRequest();
+            else
+            {
+                result.Message = "Fail";
+                result.ApplicationSatusCode = 400;
+            }
+            return StatusCode(result.ApplicationSatusCode, employee);
         }
 
         /// <summary>
@@ -80,10 +115,10 @@ namespace Cukcuk.API.Controllers
         [HttpPut("{id}")]
         public IActionResult Put([FromBody] Employee employee)
         {
-            var result = employeeBL.UpdateData(employee);
+            var Employee = employeeBL.UpdateData(employee);
 
             {
-                if (result)
+                if (Employee)
                 {
                     return Ok(employee);
                 }
@@ -99,7 +134,7 @@ namespace Cukcuk.API.Controllers
         /// <returns></returns>
         /// CreatedBy: NBAnh(25/12/2020)
         [HttpDelete("{id}")]
-        public IActionResult DeleteEmployee(Guid id)
+        public IActionResult Delete(Guid id)
         {
             var employee = employeeBL.DeleteData(id);
             return Ok(employee);
